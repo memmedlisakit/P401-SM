@@ -1,0 +1,9 @@
+HOMEWORK: Github nedir? Github versiya nezaret sistemi(deposu) bizim muxtelif formatda olan fayillarimizi github hesabimizdaki depoda saxliyir ve qoruyur.
+Biz hemin fayillarda ne deyishiklik etsekde github butun deyishikliyi edilen tarixden depoda saxlayir. 
+Githubda edilen butun ishleri herkes gore bilir ve sende serkesin butun ishlerini gore bilirsen (kodlari).
+Github sistemi herhansi bir proyekti online qrup olaraq ishlemeye sherait yaradir.
+Github hemchinin bir proqramchinin ishini asanlashdirir nece? siz git bashda yeni folder acharken folderin ichinde fayillar ile ishleyerken 
+mishkani istifade etmeden git bash camandalari ile bu ishleri celd ve guclu ede bilirsiz.
+Bu camandalar ile genish tapshiriqlari etmek effektiv ve semerelidir.
+
+

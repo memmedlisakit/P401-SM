@@ -1,0 +1,21 @@
+ASSEMBLY: computer veya bashqa proqramlanabilen qurgular uchun ashagi seviyyeli chevirici dilidir. 
+Assembly dili diger proqramlama dillerine benzemir tamamile ferqli bir dildir. Bu dil hal-hazirda da istifade olunur 
+ve bu dilin sonu olmadiqi ucun bezi instutlar ve IT shirketler terefinden yeni-yeni standartlar hazirlanir test edilir.
+Assembly dili insanlarin basha dusheceyi bir dildir ve onu mashin koduna cheviren proqramlara ise assembler deyilir. 
+
+C: UNIX platformasini tekmilleshdirmek uchun B dilineden hazirlanmish bir proqramlama dilidir. (Microsoft Windows,
+GNU/Linux, *BSD, Minix) kimi ishletim sistemlerinin hazirlanmasinda C proqramlama dili olduqca genish, suretli ve sonsuz 
+bir dildir.
+Proqramlamanin tekmilleshmesiyle beraber murekkebleshmesi, lazimi ehtiyaclarinin artmasindan sonra C proqramchilari boyuk
+olchude obyekt yonelimliyi destekleyen C++ kechmishdiler.
+
+COBOL: (Common Business Oriented Language) ticaret ve ish yerlerinin idare olunmasinda butun dunya istifadesi uchun 
+hazirlanmish biznes yonlu bir proqramlama dilidir. Cobol dilinin inkishaf etdirilmesi informasiya mubadilesinde, analitik 
+arashdirmalarda ve biznes elavelerdinde istifade edilecek dashina bilen bir proqramlashdirma dili istifade etmekdir.
+
+APN.NET: (Access Point Name) GSM, GPRS, 3G ya 4G mobil shebeke ve bashqabir computer shebekesi, umumiyyetle ictimayete achiq 
+internet arasindaki bir shebeke kechididir. Bir bobil qurgusu melumat elaqesi yaradarken dashiyiciya teqdim etmek uchun bir APN 
+ile qurashdirilmish olmalidir. Dashiyici tanimlayiciya shebekde ne nov elaqe yaradmali olduqunu yoxlayacaq. 
+Misaluchun: Simsiz qurgulara hansi IP Addressleri teyin olunmalidir, hansi tehlukesizlik metodlari ishledilmelidir, ve o
+bezi xususi shebeke mushterilerine nece elaqelendirilmelidir. Daha deqiq desek APN tanimlayicisi bir mobil istifadechinin melumatini 
+melumat shebeke paketi (PDN) ile elaqe qurmaqini isdiyir
