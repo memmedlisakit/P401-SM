@@ -1,0 +1,10 @@
+ASP.NET: 
+Dinamik web sehifelerin hazirlanmasinda web inkishafi uchun bir achiq qaynaqli server terefili wep proqram chercivesidir.
+Proqramchilar dinamik web sayitlar, web proqramlar ve web xidmetler yaratmalari uchun Microsoft terefinden inkishaf edildi.
+O birinci defe 2002 nin Yanvarinda .NET Frameworkde 1.0 versiya ile yayildi, ve Microsoftun Aktiv Server Sehifeleri (ASP) texnologiyasinin 
+davamchisidir.
+ASP.NET Common Language Runtime (CLR) uzerinde yaradilir, proqramchilarin desteklediyi hernasi bir .NET dili istifadesinde ASP.NET kodu yazmaglarina icaze verir.
+ASP.NET SOAP uzanti cherchivesi ASP.NET terkib hisselerinin SOAP mesajlarini yoneltmeye icaze verir.
+ASP.NET Core ASP.NETin davamchisidir. BU Entity Framework kimi bashqa cherchivelerle birlikde modular bir web cherchivesi olaraq ASP.NETin
+yeniden heyata kechirilmesidir. Yeni cherchive .NET Muellif Platform (kodadi "Roslyn") yeni achiq qaynagini istifade edir ve ASP.NET MVC, ASP.NET Web API, 
+ve ASP.NETWeb sehifeleri bir vahid MVC 6 daxilinde birleshdirilmish charpaz platformadir.
