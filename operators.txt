@@ -1,0 +1,44 @@
+OPERATORS:
+Bir proqramlama dilinde bir operator, muellif veya tercumechinin riyazi, muqayise veya mentiqi emliyyati ve mehsulun yekun 
+neticesini yerine yetirmek uchun deyilen xususi bir simboldur.
+Bunlardan C,Java, ve Pythonda movcut olan muhum operatorlardan Riyazi ve muqayise operatorlaridir 
+
+(Arithmetic Operators) Riyazi operatorlar. Computer proqramlari genish olchude riyazi hesablamalar uchun istifade olunmushdur. 
+
+(+) toplama
+
+(-) chixma 
+
+(*)vurma
+
+(/) bolme 
+
+(%) mod (mod bolme hesablamsinin sonundaki qaligini verir, qaliq yoxdursa 0(true), qaliq varsa 1(false) misalchun: a ya 2 deyerini verdik, b yede 10 (b % a) qaliq 0 (true), indi ise a ya 3 deyerini verdik, b yede 10, (b % a) qaliq 1(false)  
+
+
+(Relational Operators) Muqayise operatorlar. Iki deyishen yaradiriq ve her birine bezi deyerler veririk ve sonra onlari muqayise edirik
+
+(==) beraberlik (misalchun: verilen shertde deyerler beraberdirse (true), yox eger beraber deyilse (false) olur)
+
+(!=) beraber deyil (misalchun: verilen shertde deyerler beraber deyilse (true), yox eger beraberdirse (false) olur)
+
+(>) boyukdur kichikdir (misalchun: bu ishareile a deyisheni b deyisheninden boyukdurse (true) yox eger kichikdirse (false) olur)
+
+(<) kichikdir boyukdur (misalchun: bu ishare ile a deyisheni b deyisheninden kichikdirse (true) yox eger boyukdurse (false) olur)
+
+(>=) boyukdur beraberdir (misalchun: bu ishare ile a deyisheni b deyisheninden boyuldurse (true) yox eger kichikdirse (false) olur)
+
+(<=) kichikdir beraberdir (misalchun: bu ishare ile a deyisheni b deyisheninden kichikdirse (true) yox eger boyukdurse (false) olur)
+
+
+(Logical Operators) Menitiqi operatorlar her proqramlama dilinde bize mueyyen shertlere qerar vermeyimize komeklik gosteren chox lazimi operatirlardandir.
+
+(&&,(and) ve) (misalchun: bu ishare ile a deyisheni b deyisheni ile eynidirse (true) yox eger ferqlidirse (false) olur)
+
+(||,(or) ya) (misalchun: bu ishare ile a deyisheni b deyisheninden ferqlidirse (true) yox eger eynidirse (false) olur)
+
+(!,(not) yox) (misalchun: bu ishare ile ! (a && b) a deyisheni b deyisheninden ferqli olsada (true) yox eger eynidirse (false) olur)
+
+
+Java da operatorlar. C ve Java proqrami operatorlada ve shertli ifadelerde hardasa eyni seti ishledir riyazi ve muqayise operatirlari.
+Python da operatorlar. C ve Python programilarida hardasa eyni operatorlari ishledir riyazi ve muqayise.
